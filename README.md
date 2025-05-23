@@ -15,7 +15,7 @@ Code Languages I know:
 10. SQL ___ (Improving)
 11. Java ___ (Improving)
 12. VisualBasic ___ (Improving)
-13. Rust (Learning)
+13. Rust ___ (Learning)
 
  ---
 - I love passionate projects with motivated individuals and have a love to learn.
