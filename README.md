@@ -3,18 +3,19 @@
 - I am primarily experienced with Full-Stack Development for Web Applications and Interactive Experiences
 ---
 Code Languages I know: 
-1. HTML + CSS (Advanced)
-2. JavaScript (Advanced)
-3. NODE.js server development (Advanced)
-4. JSON data usage (Advanced)
-5. Linux desktop admin and development (I daily drive Linux distros)
-6. C# (Logic and Syntax)
-7. Python (Logic and Syntax)
-8. React (Improving)
-9. C++ (Improving)
-10. SQL (Improving)
-11. Java
-12. VisualBasic (Improving)
+1. HTML + CSS ___ (Advanced)
+2. JavaScript ___ (Advanced)
+3. NODE.js server development ___ (Advanced)
+4. JSON + MongoDB data usage ___ (Advanced)
+5. Linux desktop admin and development ___ (I daily drive Linux distros)
+6. C# ___ (Logic and Syntax)
+7. Python ___ (Logic and Syntax)
+8. React ___ (Improving)
+9. C++ ___ (Improving)
+10. SQL ___ (Improving)
+11. Java ___ (Improving)
+12. VisualBasic ___ (Improving)
+13. Rust (Learning)
 
  ---
 - I love passionate projects with motivated individuals and have a love to learn.
