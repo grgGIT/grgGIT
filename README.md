@@ -1,11 +1,12 @@
 ## Hi there, my name is Geoff 👋
 
 - I am primarily experienced with Full-Stack Development for Web Applications
-
+---
 Code Languages I know: 
 1. HTML + CSS
 2. JavaScript
- 
+3. 
+ ---
 - I love passionate projects with motivated individuals and have a love to learn.
 
 <!--
