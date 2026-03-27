@@ -1,6 +1,6 @@
 ## Hi there, my name is Geoff 👋
 
-View my personal website [here](www.geoffmakes.com)
+View my personal website [here](https://geoffmakes.com/)
 
 - I am primarily experienced with Full-Stack Development for Web Applications and Interactive Experiences. I also do GIS and some other things
 ---
