@@ -1,6 +1,6 @@
 ## Hi there, my name is Geoff 👋
 
-- I am primarily experienced with Full-Stack Development for Web Applications and Interactive Experiences
+- I am primarily experienced with Full-Stack Development for Web Applications and Interactive Experiences. I also do GIS and some other things
 ---
 Code Languages I know: 
 1. HTML + CSS ___ (Advanced)
