@@ -11,7 +11,7 @@
 ### What I bring to the table
 
 - **Real-world full-stack launches** – RFID-powered museum game (600+ players/day), art sandbox app for library archives, community garden platform
-- **Cross-disciplinary thinking** – software dev + sustainability + GIS + team leadership
+- **Cross-disciplinary thinking** – software dev + sustainability + marketing design + team leadership
 - **Love for messy, meaningful problems** – not just code, but impact
 
 ---
