@@ -48,7 +48,7 @@
 ### 📫 Let's connect
 
 I’m energized by collaborative, mission-driven projects.  
-If you're building something that matters — or just want to talk tech + tacos — reach out.
+If you're building something that matters — or just want to talk tech, or sustainability, or pretty much anything — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Personal Site](https://img.shields.io/badge/geoffmakes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://geoffmakes.com/)
