@@ -25,7 +25,7 @@
 `React` `C++` `Swift` `Java` `Go` `Rust` `Visual Basic` `COBOL` `STM32`
 
 **Also comfy with**  
-`Linux (daily driver)` · `REST APIs` · `OAuth` · `Docker` · `AWS` · `Arduino/Raspberry Pi` · `GIS (ArcGIS, Leaflet)` · `Figma`
+`Linux (daily driver)` · `REST APIs` · `OAuth` · `Docker` · `AWS` · `Arduino/Raspberry Pi` · `GIS (ArcGIS, Leaflet)` · `Figma` `Adobe Suite` `SimaPro`
 
 ---
 
