@@ -22,7 +22,7 @@
 `HTML/CSS` `JavaScript` `Node.js` `Python` `C#` `Kotlin` `SQL` `JSON/MongoDB`
 
 **Actively using / leveling up**  
-`React` `C++` `Swift` `Java` `Go` `Rust` `Visual Basic` `COBOL`
+`React` `C++` `Swift` `Java` `Go` `Rust` `Visual Basic` `COBOL``STM32`
 
 **Also comfy with**  
 `Linux (daily driver)` · `REST APIs` · `OAuth` · `Docker` · `AWS` · `Arduino/Raspberry Pi` · `GIS (ArcGIS, Leaflet)` · `Figma`
