@@ -51,7 +51,7 @@ If you're building something that matters — or just want to talk tech + tacos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Personal Site](https://img.shields.io/badge/geoffmakes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://geoffmakes.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grg880@proton.me)
 
 ---
 
