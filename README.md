@@ -35,6 +35,7 @@
 
 ### Current focus
 
+- Working on building and leading nonprofit/social enterprise companies
 - Working on an ML + Computer Vision Recycling app for direct licensing with recycling centers and easy client use
 - Working on **STM32** dashboards and embedded software design and dev
 - Buidling out my home server
