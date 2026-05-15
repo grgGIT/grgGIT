@@ -10,7 +10,7 @@
 
 ### What I bring to the table
 
-- **Real-world full-stack launches** – RFID-powered museum game (600+ players/day), art sandbox app for library archives, community garden platform
+- **Real-world full-stack launches** – RFID-powered museum game (600+ players/day) and pitched to stakeholders multiple times and multiple public playtests, art sandbox app for library archives and presented to stakeholders, landfill capacity map created from Leaflet JS library based on Michigan EGLE data shown at national conference, timeline of redlining GIS analysis project and presentation, 
 - **Cross-disciplinary thinking** – software dev + sustainability + marketing design + team leadership
 - **Love for messy, meaningful problems** – not just code, but impact
 
