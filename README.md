@@ -1,41 +1,58 @@
-## Hi there, my name is Geoff 👋
+## Hi, I'm Geoff
 
-View my personal website [here](https://geoffmakes.com/)
+**Full-Stack Developer · Interactive Experience Builder · GIS & Sustainability Nerd**
 
-- I am primarily experienced with Full-Stack Development for Web Applications and Interactive Experiences. I also do GIS and some other things
+> *I build things that connect people, data, and impact — from museum trivia exhibits to community food systems.*
+
+🔗 **[geoffmakes.com](https://geoffmakes.com/)** — portfolio & projects
+
 ---
-Code Languages I know: 
-1. HTML + CSS ___ (Advanced)
-2. JavaScript ___ (Advanced)
-3. NODE.js server development ___ (Advanced)
-4. JSON + MongoDB data usage ___ (Advanced)
-5. Linux desktop admin and development ___ (I daily drive Linux distros)
-6. Kotlin (Building apps)
-7. C# ___ (Built Apps/Games; Unity)
-8. Python ___ (Building Apps)
-9. C++ ___ (Improving)
-10. Swift ___ (Improving)
-11. React ___ (Improving)
-12. SQL ___ (Improving)
-13. Java ___ (Improving)
-14. VisualBasic ___ (Improving)
-15. GO ___ (Improving)
-16. Rust ___ (Learning)
 
- ---
-- I love passionate projects with motivated individuals and have a love to learn.
+### What I bring to the table
 
-<!--
-**grgGIT/grgGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Real-world full-stack launches** – RFID-powered museum game (600+ players/day), art sandbox app for library archives, community garden platform
+- **Cross-disciplinary thinking** – software dev + sustainability + GIS + team leadership
+- **Love for messy, meaningful problems** – not just code, but impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Toolbox
+
+**Languages I'm fluent in**  
+`HTML/CSS` `JavaScript` `Node.js` `Python` `C#` `Kotlin` `SQL` `JSON/MongoDB`
+
+**Actively using / leveling up**  
+`React` `C++` `Swift` `Java` `Go` `Rust` `Visual Basic`
+
+**Also comfy with**  
+`Linux (daily driver)` · `REST APIs` · `OAuth` · `Docker` · `AWS` · `Arduino/Raspberry Pi` · `GIS (ArcGIS, Leaflet)` · `Figma`
+
+---
+
+### Highlight projects
+
+---
+
+### Current focus
+
+- Working on an ML + Computer Vision Recycling app for direct licensing with recycling centers and easy client use
+- Working on **STM32** dashboards and embedded software design and dev
+- Buidling out my home server
+- Making more Swift and React Native mobile apps
+- Learning **Rust & Go** for systems-level performance and OS creation
+- Finding passionate teams working on **sustainability, public service, or interactive media**
+
+---
+
+### 📫 Let's connect
+
+I’m energized by collaborative, mission-driven projects.  
+If you're building something that matters — or just want to talk tech + tacos — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Personal Site](https://img.shields.io/badge/geoffmakes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://geoffmakes.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+
+---
+
+⭐ *“Passionate projects with motivated individuals” is my whole vibe.*
