@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Interactive Experience Builder · GIS & Sustainability Nerd**
 
-> *I build things that connect people, data, and impact — from museum trivia exhibits to community food systems.*
+> *I build things that connect people, data, and impact — from daily use apps, to interactive games and experiences, to community systems and large databases.*
 
 🔗 **[geoffmakes.com](https://geoffmakes.com/)** — portfolio & projects
 
