@@ -3,6 +3,7 @@
 **Full-Stack Developer · Interactive Experience Builder · GIS & Sustainability Nerd**
 
 > *I build things that connect people, data, and impact — from daily use apps, to interactive games and experiences, to community systems and large databases.*
+> *“Passionate projects with motivated individuals” is my whole vibe.*
 
 🔗 **[geoffmakes.com](https://geoffmakes.com/)** — portfolio & projects
 
@@ -54,6 +55,4 @@ If you're building something that matters — or just want to talk tech, or sust
 [![Personal Site](https://img.shields.io/badge/geoffmakes.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://geoffmakes.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grg880@proton.me)
 
----
 
-⭐ *“Passionate projects with motivated individuals” is my whole vibe.*
