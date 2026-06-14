@@ -5,7 +5,7 @@
 > *I build things that connect people, data, and impact — from daily use apps, to interactive games and experiences, to community systems and large databases.*
 > *“Passionate projects with motivated individuals” is my whole vibe.*
 
-🔗 **[geoffmakes.com](https://geoffmakes.com/)** — portfolio & projects
+**[geoffmakes.com](https://geoffmakes.com/)** — portfolio & projects
 
 ---
 
